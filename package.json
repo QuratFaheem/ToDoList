@@ -1,9 +1,10 @@
 {
-  "name": "todolist",
+  "name": "qfz_todolist",
   "version": "1.0.0",
   "description": "To Do list using Typescript",
   "main": "index.js",
   "type": "module",
+  "bin":"index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
